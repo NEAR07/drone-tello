@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nizhar/catkin_ws/devel/.private/tello_driver/setup.sh
