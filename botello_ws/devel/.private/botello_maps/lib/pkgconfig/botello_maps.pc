@@ -1,0 +1,8 @@
+prefix=/home/nizhar/botello/botello_ws/devel/.private/botello_maps
+
+Name: botello_maps
+Description: Description of botello_maps
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs message_filters roscpp sensor_msgs std_msgs

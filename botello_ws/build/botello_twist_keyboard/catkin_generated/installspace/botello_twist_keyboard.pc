@@ -1,0 +1,8 @@
+prefix=/home/nizhar/botello/botello_ws/install
+
+Name: botello_twist_keyboard
+Description: Description of botello_twist_keyboard
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

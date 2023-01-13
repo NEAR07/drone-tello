@@ -1,0 +1,1 @@
+/home/nizhar/botello/botello_ws/devel/.private/botello_localization/lib/pkgconfig/botello_localization.pc

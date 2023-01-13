@@ -141,6 +141,7 @@ include_directories(
     include
     ${catkin_INCLUDE_DIRS}
     ${OpenCV_INCLUDE_DIRS}
+    ${OpenCV_LIBS}
 )
 
 # Declare a C++ library
@@ -171,7 +172,8 @@ add_executable(${PROJECT_NAME}_node src/botello_aruco_node.cpp)
 ## Specify libraries to link a library or executable target against
 target_link_libraries(${PROJECT_NAME}_node
   ${catkin_LIBRARIES}
-  ${OpenCV_LIBRARIES}
+  #${OpenCV_LIBRARIES}
+  -lopencv_aruco
 )
 
 #############

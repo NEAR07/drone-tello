@@ -1,0 +1,6 @@
+botello_localization
+/home/nizhar/botello/botello_ws/devel/.private/botello_localization/cmake.lock /home/nizhar/botello/botello_ws/devel/./cmake.lock
+/home/nizhar/botello/botello_ws/devel/.private/botello_localization/share/botello_localization/cmake/botello_localizationConfig.cmake /home/nizhar/botello/botello_ws/devel/share/botello_localization/cmake/botello_localizationConfig.cmake
+/home/nizhar/botello/botello_ws/devel/.private/botello_localization/share/botello_localization/cmake/botello_localizationConfig-version.cmake /home/nizhar/botello/botello_ws/devel/share/botello_localization/cmake/botello_localizationConfig-version.cmake
+/home/nizhar/botello/botello_ws/devel/.private/botello_localization/lib/pkgconfig/botello_localization.pc /home/nizhar/botello/botello_ws/devel/lib/pkgconfig/botello_localization.pc
+/home/nizhar/botello/botello_ws/devel/.private/botello_localization/lib/botello_localization/botello_localization_node /home/nizhar/botello/botello_ws/devel/lib/botello_localization/botello_localization_node

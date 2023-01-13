@@ -1,0 +1,8 @@
+prefix=/home/nizhar/botello/botello_ws/install
+
+Name: botello_movement
+Description: Description of botello_movement
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

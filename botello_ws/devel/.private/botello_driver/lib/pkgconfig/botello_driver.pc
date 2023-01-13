@@ -1,0 +1,8 @@
+prefix=/home/nizhar/botello/botello_ws/devel/.private/botello_driver
+
+Name: botello_driver
+Description: Description of botello_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

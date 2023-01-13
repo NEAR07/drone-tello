@@ -1,0 +1,8 @@
+prefix=/home/nizhar/botello/botello_ws/devel/.private/botello_navigation
+
+Name: botello_navigation
+Description: Description of botello_navigation
+Version: 0.0.0
+Cflags: -I/home/nizhar/botello/botello_ws/src/botello_navigation/include
+Libs: -L${prefix}/lib 
+Requires: 

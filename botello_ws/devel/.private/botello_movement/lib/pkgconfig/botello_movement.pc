@@ -1,0 +1,8 @@
+prefix=/home/nizhar/botello/botello_ws/devel/.private/botello_movement
+
+Name: botello_movement
+Description: Description of botello_movement
+Version: 0.0.0
+Cflags: -I/home/nizhar/botello/botello_ws/src/botello_movement/include
+Libs: -L${prefix}/lib 
+Requires: 

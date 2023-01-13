@@ -6,16 +6,18 @@
 #include <sstream>
 
 #include <opencv2/aruco.hpp>
+#include <opencv2/imgproc.hpp>
 #include <image_transport/image_transport.h>
 #include <opencv2/highgui/highgui.hpp>
 #include <cv_bridge/cv_bridge.h>
 
-#include <opencv/cv.h>
-#include <opencv/highgui.h>
+//#include <opencv/cv.h>
+//#include <opencv/highgui.h>
 #include <opencv2/core/ocl.hpp>
 #include <opencv2/opencv.hpp>
 #include <opencv2/aruco.hpp>
 
+// #include <experimental/numeric>
 #pragma once
 
 namespace botello_aruco

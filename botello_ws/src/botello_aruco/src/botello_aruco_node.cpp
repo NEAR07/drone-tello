@@ -1,4 +1,8 @@
 #include "botello_aruco_node.hpp"
+// #include <numeric>
+#include <vector>
+// #include <numeric>
+#include <iostream>
 
 /*
 Some code adapted from aruco_detect ROS package.
