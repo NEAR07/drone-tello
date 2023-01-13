@@ -1,0 +1,54 @@
+[35m[1mScanning dependencies of target _drone_controller_generate_messages_check_deps_SetRefPose[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _drone_controller_generate_messages_check_deps_MoveDroneW[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _drone_controller_generate_messages_check_deps_SetRefPose
+[  0%] Built target _drone_controller_generate_messages_check_deps_MoveDroneW
+[35m[1mScanning dependencies of target drone_controller_generate_messages_eus[0m
+[35m[1mScanning dependencies of target drone_controller_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target drone_controller_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target drone_controller_generate_messages_py[0m
+[35m[1mScanning dependencies of target drone_controller_generate_messages_lisp[0m
+[  5%] [34m[1mGenerating EusLisp manifest code for drone_controller[0m
+[ 15%] [34m[1mGenerating C++ code from drone_controller/SetRefPose.srv[0m
+[ 15%] [34m[1mGenerating Javascript code from drone_controller/MoveDroneW.srv[0m
+[ 25%] [34m[1mGenerating Lisp code from drone_controller/SetRefPose.srv[0m
+[ 25%] [34m[1mGenerating Python code from SRV drone_controller/SetRefPose[0m
+[ 30%] [34m[1mGenerating EusLisp code from drone_controller/MoveDroneW.srv[0m
+[ 35%] [34m[1mGenerating EusLisp code from drone_controller/SetRefPose.srv[0m
+[ 40%] [34m[1mGenerating Javascript code from drone_controller/SetRefPose.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from drone_controller/MoveDroneW.srv[0m
+[ 50%] [34m[1mGenerating Python code from SRV drone_controller/MoveDroneW[0m
+[ 50%] Built target drone_controller_generate_messages_nodejs
+[ 55%] [34m[1mGenerating C++ code from drone_controller/MoveDroneW.srv[0m
+[ 55%] Built target drone_controller_generate_messages_lisp
+[ 60%] [34m[1mGenerating Python srv __init__.py for drone_controller[0m
+[ 60%] Built target drone_controller_generate_messages_cpp
+[35m[1mScanning dependencies of target position_controller_interface[0m
+[35m[1mScanning dependencies of target controller_interface[0m
+[35m[1mScanning dependencies of target path_visualization[0m
+[35m[1mScanning dependencies of target altitude_controller_interface[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/position_controller_interface.dir/src/position_controller_interface.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/altitude_controller_interface.dir/src/altitude_controller_interface.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/path_visualization.dir/src/path_visualization.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/controller_interface.dir/src/controller_interface.cpp.o[0m
+[ 80%] Built target drone_controller_generate_messages_py
+[ 80%] Built target drone_controller_generate_messages_eus
+[35m[1mScanning dependencies of target drone_controller_generate_messages[0m
+[ 80%] Built target drone_controller_generate_messages
+[ 85%] [32m[1mLinking CXX executable /home/nizhar/drone/devel/.private/drone_controller/lib/drone_controller/altitude_controller_interface[0m
+[ 90%] [32m[1mLinking CXX executable /home/nizhar/drone/devel/.private/drone_controller/lib/drone_controller/position_controller_interface[0m
+[ 90%] Built target altitude_controller_interface
+[ 90%] Built target position_controller_interface
+[ 95%] [32m[1mLinking CXX executable /home/nizhar/drone/devel/.private/drone_controller/lib/drone_controller/path_visualization[0m
+[100%] [32m[1mLinking CXX executable /home/nizhar/drone/devel/.private/drone_controller/lib/drone_controller/controller_interface[0m
+[100%] Built target path_visualization
+[100%] Built target controller_interface

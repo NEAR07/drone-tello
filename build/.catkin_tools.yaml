@@ -1,0 +1,6 @@
+devel_space: /home/nizhar/drone/devel
+install: false
+install_space: /home/nizhar/drone/install
+profile: default
+source_space: /home/nizhar/drone/src
+workspace: /home/nizhar/drone

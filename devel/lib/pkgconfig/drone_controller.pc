@@ -1,0 +1,1 @@
+/home/nizhar/drone/devel/.private/drone_controller/lib/pkgconfig/drone_controller.pc
